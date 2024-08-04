@@ -1,0 +1,406 @@
+﻿Insured status,Pat code,Gender,Age (yrs),Area of residence,Marital status,Working Sector,Education level,Religion,Monthly income (FCFA),Family size,Household head,Do you suffer from any chronic diseases or medical condition that requires medical follow up?,"If yes, state the condition",What brought you to  hospital today?,What was your diagnosis?,Name of insurance company(ies) affliated to,"If more than 1 insurance company, reason",How did you hear about the insurance company you are affiliated to?,Why are you enrolled to your current health insurance?,Number of years enrolled with insurance company ,Does your insurance cover all of your health cost?,Are you satisfied with information provided by health care workers?,Are you satisfied with the diagnosis made by the health care providers?,Are you satisfied with the ease to which you have access to meet a medical specialist?,Are you satisfied with the ease to which you are able to book an appointment in the hospital?,Are you satisfied with the waiting time to see the doctor?,Are you satisfied with the quality of equipment’s used in this health care facility?,Are you satisfied with the attitude/level of respect given by the health care workers?,Are you satisfied with the cleanliness of the health care facility (including toilets and wards)?,Are you satisfied with the availability and quality of drugs given as the hospital covered by your insurance?,Are you satisfied with the cost of the health care services offered at this health facility?,Do you think your health insurance package covers more than 90% or all of your health needs?,What else did you wish your health insurance company covered that isn’t included in their benefit package?,Are you willing to pay extra money for better quality of care?,Will you recommend your insurance plan to a family or friend?,"Have you ever made any OOP health expenditures? If yes, how much (estimate in FCFA) and for what purpose?"
+Not insured,P1,2,38,Nkolmesseng,3,6,2,1,1,7,1,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P2,1,57,Bokito,2,1,4,1,3,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,2,1,3,3,3,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P3,2,38,Happi,2,3,3,1,1,6,2,1,stroke,2,routine therapy,NONE,NONE,NONE,NONE,NONE,NONE,2,3,1,1,1,3,1,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P4,1,50,Komkana,4,2,5,1,5,4,5,1,HIV,2,upper respiratory tract infection,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P5,2,55,Essos,4,6,4,1,1,4,2,2,none,"1,2",accident,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P6,2,35,melen,2,2,3,1,2,3,1,1,HIV,2,diarrhea ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,2,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P7,1,50,Awae,2,2,4,1,3,5,1,1,"high blood pressure, Diabetes, Hepatitis C",Accompanying a relative,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P8,2,49,melen,1,1,3,1,1,14,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P9,1,46,Biteng,3,1,4,1,3,4,1,1,Diabetes,2,pneumonia ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P10,2,54,Biscuterrie,3,5,2,2,1,6,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P11,2,49,nsimeyong,1,1,3,1,2,4,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,2,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P12,1,68,nkolbang,2,4,4,1,1,5,1,3,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P13,2,38,ekounu,2,5,3,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P14,2,50,ekounu,1,3,3,1,1,3,1,1,High blood pressure,2,food poisoning ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P15,2,34,melen,1,5,3,1,1,4,1,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,2,1,1,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P16,1,40,Chateau,1,3,3,1,1,3,1,2,none,2,motocycle accident,NONE,NONE,NONE,NONE,NONE,NONE,3,2,3,2,2,3,2,3,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P17,1,50,Soa,2,6,3,1,1,10,1,2,none,2,home accident,NONE,NONE,NONE,NONE,NONE,NONE,4,3,4,3,3,3,4,4,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P18,2,43,Jouvance,1,6,4,1,1,5,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,2,2,2,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P19,1,38,melen,1,3,4,1,2,7,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,4,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P20,1,30,Akacia,1,6,3,1,1,1,1,2,none,2,"cough, catarrh, core throat",NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,1,3,3,2,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P21,2,34,Awaie,1,2,4,1,1,4,2,2,none,1,"malaria, typhoid",NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P22,2,57,Makolo,1,2,3,1,2,4,1,2,none,1,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P23,2,25,Chateau,1,6,4,1,1,2,1,2,none,1,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P24,1,60,nlonkak,2,6,4,1,1,6,1,1,Hepatitis B,2,injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P25,2,35,Mokolo,1,5,3,1,1,4,2,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P26,2,35,eleveur,4,1,4,1,2,8,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P27,2,45,Mvok Ada,2,2,3,1,1,4,1,2,none,2,uterine bleeding,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P28,2,49,Sangmelima,1,6,3,1,1,2,2,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P29,1,38,eleveur,1,6,2,1,1,3,1,2,none,2,syphilis,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P30,1,57,Essos,1,3,3,1,1,5,1,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,4,3,3,4,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P31,2,28,Essos,1,2,4,1,2,4,1,2,none,2,irregular menstrual cycle,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P32,2,42,Mbamkolo,1,6,3,1,1,6,1,1,HIV,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,1,3,3,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P33,2,47,Nkomo,1,2,3,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,4,3,3,3,2,1,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P34,2,66,Nkoma,4,6,1,1,1,4,2,2,none,1,general routine check up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P35,2,35,Febe Village,1,1,4,1,1,6,2,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P36,1,31,Mboumnyebel,1,6,4,1,1,5,1,2,none,2,pregnant,NONE,NONE,NONE,NONE,NONE,NONE,3,4,4,4,3,3,4,4,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P37,1,21,Nvogbi,1,6,3,1,1,4,1,2,none,1,gastric ulcer,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P38,2,21,Mboumnyebel,1,6,3,1,1,5,1,2,none,Accompanying a relative,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,4,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P39,1,40,Ngousso,1,2,4,1,4,5,1,2,none,Accompanying a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,2,3,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P40,2,30,Olembe,1,1,3,1,2,2,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P41,2,20,scalom,2,5,3,1,1,8,1,2,none,2,toothache,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,3,1,4,3,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P42,1,26,Mvan,1,6,4,1,1,5,2,2,none,2,gastric ulcer,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,4,3,4,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P43,2,32,monti,2,6,2,1,1,6,1,2,none,1,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P44,1,45,Ngousso,1,1,3,1,1,4,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P45,1,54,carriere,2,3,3,3,1,7,1,1,High blood pressure,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P46,1,53,mendong,4,4,3,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,4,4,4,4,4,4,4,4,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P47,1,18,nkoldongo,2,6,4,1,1,6,2,2,none,Accompanying a relative,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,1,2,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P48,2,48,oyomabang,2,5,3,1,1,4,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P49,1,29,Ngousso,1,2,5,1,1,7,1,2,none,2,dog bite,NONE,NONE,NONE,NONE,NONE,NONE,2,2,3,3,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P50,2,45,mimboman,1,3,3,1,1,4,2,2,none,2,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P51,2,49,tinnga,4,1,3,1,2,9,1,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P52,2,74,oyomabang,4,6,3,1,1,6,2,2,none,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,4,4,4,4,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P53,2,50,messa,1,3,5,1,1,4,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,1,2,2,2,2,1,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P54,1,35,Emombo,1,2,4,1,1,3,1,1,Diabetes,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P55,2,47,damas,1,1,3,1,3,11,2,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,2,2,3,2,1,1,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P56,2,26,efoulan,1,6,3,1,1,3,1,2,none,1,pregnant,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P57,2,27,bonas,1,6,4,1,2,2,2,2,none,1,syphilis,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P58,1,60,essomba,1,2,4,1,2,3,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P59,2,28,mvolye,1,1,3,1,2,5,1,2,none,2,toothache,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P60,2,45,etoug-egbe,2,1,5,1,1,5,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,1,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P61,2,34,nvan,1,5,3,1,1,8,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P62,2,31,obili,2,2,5,1,3,6,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,1,1,1,3,1,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P63,2,42,TKC,4,6,4,1,1,4,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,2,3,3,2,2,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P64,2,22,nkongsamba,1,6,4,2,1,6,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,4,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P65,2,27,Jouvance,2,1,4,1,3,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,4,3,3,2,4,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P66,2,27,essos,2,5,3,1,1,4,2,2,none,2,food poisoning ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P67,1,25,happi,1,6,5,2,1,8,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,4,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P68,2,33,Mbamkolo,1,2,4,1,3,1,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,4,3,3,3,2,4,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P69,2,30,bonas,2,3,4,1,2,4,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,4,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P70,2,45,nkoabang,1,2,4,11,1,4,1,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,1,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P71,1,39,essomba,2,1,5,1,4,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P72,2,20,soa,1,6,4,2,1,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,4,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P73,2,34,nkolbisson,1,3,3,1,1,4,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P74,2,37,bancono,2,5,2,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P75,2,30,yaounde,1,2,4,1,2,2,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,4,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P76,1,35,nkondegui,1,1,5,1,3,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,4,4,3,3,3,4,4,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P77,2,29,careffour kameni,2,6,3,1,1,4,1,2,none,1,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P79,1,27,melen,1,2,4,1,3,8,1,2,none,2,gastric ulcer,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P80,1,27,ngoa,1,6,4,1,1,7,2,2,none,1,food poisoning ,NONE,NONE,NONE,NONE,NONE,NONE,4,4,4,4,4,4,4,4,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P81,1,32,Ngousso,1,1,5,2,3,2,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,1,1,1,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P82,2,48,Sangmelima,2,1,3,1,3,20,1,1,osteoarthritis,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,1,1,2,1,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P83,1,50,oyomabang,2,2,4,1,4,4,1,2,none,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P84,1,43,ayes,2,1,3,1,3,7,1,2,none,Accompanying a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,2,1,3,1,2,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P85,2,58,Olembe,4,6,1,1,1,9,2,1,osteoarthritis,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,4,1,2,2,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P86,2,43,nkoabang,1,4,3,1,1,5,2,1,Hepatitis B,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P87,1,62,nkoabang,2,4,3,1,1,8,1,1,High blood pressure,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,1,3,3,3,1,3,1,1,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P88,1,23,mfou,1,6,4,1,1,9,1,2,none,Accompanying a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,3,1,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P89,2,63,mimboman,2,4,4,1,3,9,1,2,none,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,1,1,1,3,2,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P90,2,40,mvogada,1,6,1,1,1,8,1,2,none,1,syphilis,NONE,NONE,NONE,NONE,NONE,NONE,4,4,2,2,3,4,4,4,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P91,2,47,mbankomo,2,2,3,1,1,7,2,2,none,Accompanying a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,1,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,p92,1,43,yaounde,2,3,3,1,2,15,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,1,1,1,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,p93,2,57,Soa,1,6,2,1,1,4,1,1,nerves,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,3,3,2,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,p94,1,65,ekie,2,4,3,2,1,10,2,1,"Diabetes, hepatitis C",2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,1,3,3,3,3,3,4,4,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,p95,2,23,Ngousso,1,6,3,1,1,4,1,2,none,1,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,p96,1,33,Emombo,1,3,4,1,1,5,1,1,Sickle Cell Disease,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,2,1,1,1,1,1,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,p97,1,25,ekounu,1,2,4,1,3,7,1,2,none,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,3,1,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,p98,2,65,ekounu,2,4,3,1,2,5,1,1,Lumbar Osteoarthritis,2,stroke,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,1,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,p99,2,25,ekounu,1,6,5,1,1,4,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,1,2,3,1,3,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,p100,1,53,ahala,2,1,5,1,4,6,1,1,High blood pressure,2,scrotal check up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,1,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P101,2,18,essos,1,6,4,1,1,7,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,1,1,1,1,1,2,2,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P102,2,42,kondengui,2,5,4,1,1,5,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P103,1,49,nkoabang,2,2,3,1,2,8,1,2,none,2,high blood pressure,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,2,1,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P104,2,42,essos,2,2,4,1,4,4,1,1,Sickle Cell Disease,2,routine follow up,AREA,NONE,1,1,2,2,3,3,2,2,2,3,3,2,3,1,2,NONE,1,1,"10,000 (dental services)"
+Not insured,P105,1,42,yaounde,1,3,4,2,3,6,1,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P106,2,50,ekounu,1,2,3,1,1,5,4,2,none,2,breast cancer,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P107,1,68,nsimeyong,2,4,5,1,2,5,1,1,High blood pressure,1,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,2,2,2,1,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P108,2,27,mimboman,1,2,4,1,2,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P109,1,65,Ebolowa,2,4,5,1,4,18,1,1,"High blood pressure, Rheumatism",2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P110,2,18,mimboman,1,6,3,1,1,6,1,1,Sickle Cell Disease,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P111,2,35,AKGA,4,1,3,1,2,4,2,1,Sickle Cell Disease,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,2,3,3,3,2,2,2,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P112,1,44,nkoabang,2,3,4,1,3,4,1,1,anemia,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,2,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P113,2,47,oyomabang,2,6,3,1,1,6,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,1,3,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P114,1,23,oyomabang,1,2,4,1,5,6,2,1,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,2,1,2,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P116,2,23,ekoumdoum,1,6,4,1,1,2,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P117,1,40,biyemassi,1,1,5,1,2,5,1,2,none,1,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,3,1,3,3,3,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P118,1,30,yaounde,1,6,3,1,1,6,2,2,none,2,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,2,4,2,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P120,2,51,Nkolmesseng,2,6,2,1,1,15,1,1,rheumatism,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P121,2,49,Awaie,2,1,4,1,1,6,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P122,2,65,eleveur,2,5,3,1,1,5,1,1,nerves,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,3,2,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P123,2,22,yaounde,1,6,4,1,1,6,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,1,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P124,2,44,kondengui,2,5,3,1,1,7,1,1,rheumatism,1,stroke,NONE,NONE,NONE,NONE,NONE,NONE,1,3,1,1,1,1,3,1,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P125,2,41,ekounu,1,1,4,1,3,2,2,1,nerves,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,3,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P126,2,24,odza,1,1,5,1,3,2,1,2,none,1,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,1,2,1,1,1,1,1,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P127,1,32,carriere,2,2,4,1,2,3,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,2,2,1,2,1,1,1,2,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P128,2,33,odza,1,2,3,1,2,5,2,1,respiratory difficulties,1,upper respiratory tract infection,NONE,NONE,NONE,NONE,NONE,NONE,2,2,3,2,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P129,2,59,nyom,2,6,4,1,1,1,2,1,diabetes,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P130,1,43,eleveur,1,6,2,1,1,7,1,1,"diabtes, hepatitis C",2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,4,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P131,1,25,ekounu,1,2,4,1,3,5,1,2,none,2,pregnant,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,1,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P132,2,23,nkomo,1,6,4,1,1,4,1,2,none,2,syphilis,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P133,1,51,ayong,2,3,4,2,3,7,1,1,azoospermia,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,1,1,3,3,2,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P134,1,50,nkoabang,2,1,3,1,2,6,1,2,none,2,accident,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,2,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P135,2,28,kondengui,1,6,5,1,1,5,2,1,nerves,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,2,2,1,1,1,1,1,3,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P136,2,51,Mvan,3,3,3,1,1,4,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P137,1,25,mvolye,1,6,4,1,1,3,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,1,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P138,2,35,tam tam,1,2,5,1,3,6,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P139,1,30,Jouvance,2,1,4,1,2,4,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P140,2,20,hotel plateau,1,6,4,1,1,5,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P141,2,70,nkombisson,2,3,2,1,1,6,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P142,2,49,babbiere,1,3,3,1,1,4,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P143,1,40,oyomabang,1,3,3,1,1,1,1,2,none,2,food poisoning ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P144,2,33,bastos,1,5,3,1,1,6,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,3,2,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P145,2,57,ekounu,1,6,3,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P146,2,31,Awaie,1,2,4,1,2,3,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,1,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P147,2,40,odza,1,6,2,1,1,2,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P148,1,37,efoulan,2,1,4,1,2,7,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P149,2,27,soa,2,2,4,1,3,4,1,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,1,3,3,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P150,2,41,simbock,2,2,3,1,2,6,1,1,diabetes,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,3,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P151,1,39,damas,1,1,4,1,3,7,1,2,none,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,3,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P152,2,36,nsam,1,3,3,1,1,3,2,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P153,2,27,etoug-egbe,1,2,5,1,2,8,1,2,none,2,gastric ulcer,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P154,1,30,obili,1,1,3,1,2,2,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P156,2,25,essos,1,6,3,1,3,1,2,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P157,2,66,essomba,3,4,3,1,1,7,2,1,High blood pressure,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P158,1,56,nkoabang,4,4,4,1,1,5,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P159,2,31,nkoma,1,2,3,1,4,5,2,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P160,2,29,odza,1,3,3,1,2,4,1,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P161,2,30,acasia,2,1,4,1,2,4,1,2,none,2,toothache,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,33,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P162,1,23,bonas,1,6,4,2,1,4,1,2,none,1,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,2,2,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P163,1,34,etoug-egbe,2,3,4,1,3,3,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,2,2,3,3,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P164,2,42,Mvan,1,3,2,1,1,1,1,1,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P165,2,35,Emombo,3,3,5,2,2,8,2,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P166,1,20,essos,1,6,3,1,1,2,2,2,none,1,food poisoning ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P168,1,29,obili,2,1,4,1,3,6,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,4,4,3,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P169,2,33,simeon chapelle,1,1,5,1,2,1,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P170,2,21,essos,1,6,4,2,1,7,2,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P171,1,28,Ngousso,1,3,3,1,1,2,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P172,1,30,ekounu,2,2,5,1,3,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P174,1,20,odza,1,4,3,2,1,4,2,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P175,1,26,soa,1,3,4,2,2,3,1,2,none,1,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,4,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P176,2,54,ekounu,4,6,3,1,1,3,1,2,none,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P177,1,28,nkomo,1,2,4,1,2,2,1,2,none,1,home accident,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P178,2,40,bonas,1,3,4,1,2,2,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,4,2,2,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P180,2,27,mvolye,1,2,4,1,3,2,2,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P181,1,23,soa,1,6,4,1,1,1,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,4,3,4,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P182,2,50,obili,2,3,3,1,2,8,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P183,2,24,soa,1,6,4,2,1,9,2,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,3,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P184,2,53,careffour kameni,2,5,3,1,1,7,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P186,1,23,odza,1,6,4,1,1,7,1,1,Hepatitis B,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,4,3,3,3,1,3,1,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P187,2,72,ekie,3,4,3,1,1,7,1,1,diabetes,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,1,1,2,2,1,2,2,2,none,4,NONE,NONE,NONE,NONE,NONE
+Not insured,P188,2,50,efoulan,2,5,3,1,1,5,1,2,none,2,cervical screening,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,2,2,2,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P189,1,38,YKC,1,2,5,1,2,3,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,3,1,1,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P190,1,31,mvolye,1,3,5,1,1,1,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,1,2,1,2,1,1,1,1,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P191,1,29,yde,2,2,5,1,4,7,1,1,Hepatitis B,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,2,4,2,3,2,3,4,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P192,1,36,ahala,1,3,4,1,2,7,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,3,4,3,3,3,3,3,1,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,P193,2,53,essomba,2,5,3,1,1,3,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P194,1,27,mendong,1,2,3,4,3,5,1,2,none,2,gonorrhea ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P195,1,28,nkoabang,1,1,5,3,3,6,1,2,none,2,syphilis,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P196,1,23,cite verte,1,6,4,1,1,8,4,2,none,1,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P197,2,24,mendong,1,2,4,1,2,5,1,2,none,2,pregnant,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,3,1,3,4,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P198,1,36,bastos,2,2,3,1,2,2,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,P199,2,73,emana,1,4,3,1,2,4,2,1,alcoholic,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,4,1,2,2,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,P200,2,41,Awaie,1,3,3,1,2,6,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,201,2,25,carriere,2,2,3,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,2,2,2,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,202,2,30,yde,2,5,4,1,1,4,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,2,3,1,1,1,3,1,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,203,1,50,Sangmelima,2,1,4,1,3,7,1,1,type 2 diabetes,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,3,1,1,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,204,1,29,yde,1,6,4,1,1,3,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,205,1,30,mfou,2,4,3,1,1,14,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,4,2,1,1,1,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,206,1,46,nkoabang,1,3,2,1,1,7,1,2,none,2,accident,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,1,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,209,2,24,nkolbisson,1,6,4,1,1,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,3,3,3,2,3,1,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,210,1,27,obili,1,2,4,1,1,2,1,2,none,1,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,211,2,51,odza,4,2,4,1,3,6,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,212,2,29,ecole de poste,1,3,3,1,1,3,2,1,rheumatism,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,213,1,63,abonbang ,2,6,3,1,1,25,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,2,3,1,2,2,2,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,214,2,27,essos,1,6,4,1,1,1,1,2,none,2,ear pain,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,215,2,20,mendong,1,3,5,1,2,1,2,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,2,2,1,3,1,3,2,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,216,1,30,Emombo,1,2,4,1,2,10,2,2,none,2,gastric ulcer,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,2,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,217,1,25,Ngousso,1,2,5,1,2,3,2,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,219,2,30,nkoabang,1,6,4,1,1,6,1,2,none,2,irregular menstrual cycle,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,1,1,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,220,1,54,nkolbisson,2,2,4,1,2,12,1,1,Hepatitis B,2,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,221,2,40,essos,2,6,3,1,1,6,1,2,none,1,eczema,NONE,NONE,NONE,NONE,NONE,NONE,1,1,3,3,1,3,3,3,none,2,NONE,NONE,NONE,NONE,NONE
+Not insured,223,2,29,obili,1,2,4,1,2,12,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,3,2,3,none,1,NONE,NONE,NONE,NONE,NONE
+Not insured,224,2,47,etoug-egbe,3,6,3,1,1,3,2,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,2,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,225,2,60,nsimeyong,2,5,3,1,1,13,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,1,3,3,1,none,3,NONE,NONE,NONE,NONE,NONE
+Not insured,274,1,26,cradat,1,3,4,1,1,3,1,2,none,2,food poisoning ,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,276,2,31,obili,1,3,4,1,2,6,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,285,1,28,madagascar,1,2,4,1,2,2,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,2,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,286,2,45,mbankomo,1,3,3,1,1,1,2,2,none,1,eczema,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,287,1,30,carrefour golf,1,3,4,1,2,2,1,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,288,2,39,essomba,2,2,3,1,2,2,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,289,1,35,mvolye,2,1,4,1,3,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,1,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,291,2,27,essomba,1,2,3,1,2,4,1,1,HIV,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,292,1,31,Mvan,1,1,2,1,1,1,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,3,2,1,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,294,2,35,bonas,1,2,4,1,3,2,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,295,1,35,golf,2,2,4,1,4,4,1,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,296,2,49,efoulan,2,1,4,1,2,4,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,297,2,20,nlonkak,1,6,3,1,1,2,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,298,1,27,hotel plateau,1,3,3,1,1,1,1,2,none,1,dog bite,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,299,1,30,nsam,1,1,5,1,3,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,300,1,26,mvan,1,2,4,1,2,3,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,301,2,34,emana,2,1,4,1,4,5,1,2,none,1,irregular menstrual cycle,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,302,2,40,essos,2,3,3,1,2,5,1,2,none,2,cervical screening,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,303,2,35,nsimeyong,1,1,3,1,2,4,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,304,1,28,ekie,1,2,4,1,3,2,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,1,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,306,2,56,mvolye,4,4,4,1,1,6,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,2,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,307,2,40,nsam,2,1,4,1,3,3,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,308,1,21,bastos,1,2,4,1,2,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,318,2,40,damas,2,2,4,1,3,5,1,2,none,2,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,2,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,319,2,25,emana,1,6,4,1,1,3,2,2,none,2,pregnant,NONE,NONE,NONE,NONE,NONE,NONE,4,4,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,320,2,39,essos,3,3,3,1,1,6,2,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,321,2,38,emia,1,6,2,1,1,2,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,1,1,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,322,2,21,cradat,1,6,3,1,1,3,1,2,none,2,syphilis,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,323,2,33,ekounu,2,5,2,1,1,5,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,2,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,324,1,31,nsam,1,1,4,1,1,2,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,325,2,35,emia,1,1,2,1,1,3,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,326,2,49,Mokolo,1,3,2,1,1,3,2,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,4,3,3,2,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,327,2,36,mbankomo,4,5,3,1,1,3,1,2,none,2,irregular menstrual cycle,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,2,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,328,2,46,nkoldongo,4,1,3,1,1,4,2,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,1,1,1,1,1,1,1,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,329,1,52,Olembe,2,2,3,1,1,8,1,1,diabetes,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,1,2,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,330,1,85,messasi,2,4,4,1,2,7,1,1,rheumatism,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,2,4,3,2,NONE,NONE,NONE,NONE,NONE
+Not insured,331,2,26,emana,1,6,3,1,1,3,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,2,3,NONE,NONE,NONE,NONE,NONE
+Not insured,332,1,64,yaounde,2,3,2,1,1,13,1,1,rheumatism,1,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,333,1,59,essos,2,1,4,1,4,5,1,1,rheumatism,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,2,3,3,3,2,2,NONE,NONE,NONE,NONE,NONE
+Not insured,334,2,70,Mbamkolo,4,5,2,1,1,5,1,1,diabetes,2,cancer,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,3,1,1,2,1,3,1,NONE,NONE,NONE,NONE,NONE
+Not insured,335,1,19,nsam,1,6,4,1,1,8,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,336,1,47,obobogo,2,2,2,1,2,4,1,1,diabetes,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,2,3,3,2,2,3,2,3,3,2,NONE,NONE,NONE,NONE,NONE
+Not insured,337,1,26,emia,1,2,4,1,2,6,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,1,3,3,3,3,2,NONE,NONE,NONE,NONE,NONE
+Not insured,338,1,26,cradat,1,6,4,1,1,4,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,1,3,3,1,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,340,2,68,Mbamkolo,2,5,2,1,1,7,1,1,asthma,2,routine follow up,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,2,3,3,1,NONE,NONE,NONE,NONE,NONE
+Not insured,341,1,25,bastos,1,6,3,2,1,5,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,1,1,2,NONE,NONE,NONE,NONE,NONE
+Not insured,342,2,67,messasi,4,6,2,1,2,9,2,1,hypertension,1,migraines,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,2,1,2,1,2,2,2,NONE,NONE,NONE,NONE,NONE
+Not insured,343,2,40,acasia,2,2,2,1,1,6,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,3,3,3,3,2,3,NONE,NONE,NONE,NONE,NONE
+Not insured,344,2,76,koldongo,4,5,2,1,1,7,1,1,hypertension,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,345,1,45,cradat,1,6,4,1,1,3,1,2,none,1,migraines,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,2,2,2,2,2,2,3,NONE,NONE,NONE,NONE,NONE
+Not insured,346,2,28,biyemassi,1,5,3,1,1,4,1,2,none,2,road traffic injury,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,347,2,30,essos,1,2,4,1,4,6,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,2,2,2,2,2,2,2,4,3,2,NONE,NONE,NONE,NONE,NONE
+Not insured,348,1,37,nsimeyong,1,2,3,1,2,6,1,1,hypertension,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,2,2,4,2,2,3,3,2,2,2,NONE,NONE,NONE,NONE,NONE
+Not insured,349,1,22,mvogada,1,6,4,1,1,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,350,1,51,yaounde,2,2,3,3,2,4,1,1,nerves,1,migraines,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,2,2,2,3,1,3,1,NONE,NONE,NONE,NONE,NONE
+Not insured,351,1,29,Mvan,2,2,4,1,3,5,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,1,1,1,1,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,352,2,40,eleveur,1,6,3,2,1,4,2,2,none,1,typhoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,2,2,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,353,1,65,Nkolmesseng,2,3,2,1,1,5,1,2,none,1,scrotal caner,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,2,2,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,354,2,39,elig-effa,1,3,3,1,3,5,2,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,3,3,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,355,1,62,nsimeyong,2,4,4,1,5,4,1,2,none,2,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,1,1,2,1,3,3,3,NONE,NONE,NONE,NONE,NONE
+Not insured,356,1,29,koldongo,1,1,4,1,2,1,1,2,none,accompany a patient,none,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,2,2,3,3,3,3,2,NONE,NONE,NONE,NONE,NONE
+Not insured,378,2,31,acasia,1,2,4,1,1,4,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,3,3,3,3,4,4,4,3,NONE,NONE,NONE,NONE,NONE
+Not insured,381,1,38,emia,1,2,3,1,2,1,1,1,hiv,2,came to pick up medicine,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,3,4,3,3,NONE,NONE,NONE,NONE,NONE
+Insured,P78,2,30,ETDA MEKI,1,2,4,1,3,4,1,2,none,2,migraines,3,NONE,1,6,1,2,3,3,2,2,2,3,2,2,3,3,2,NONE,1,1,"15,000 (Drugs)"
+Insured,P115,1,51,Ndiki,2,4,3,1,1,7,1,2,none,1,malaria,4,NONE,2,4,6,4,3,3,3,3,2,3,3,3,2,3,2,NONE,1,1,"20,000 (payment of services)"
+Insured,P119,1,32,Mvan,1,1,4,1,2,5,1,2,none,2,toothache,13,NONE,3,6,6,2,3,3,3,3,1,3,3,1,4,1,2,NONE,1,1,"100,000 (medecines and drugs)"
+Insured,P155,1,42,mfou,2,1,4,1,3,4,1,2,none,2,malaria,1,NONE,1,1,3,2,3,3,3,3,2,3,3,3,3,3,2,Take total care of my operation bills in the hospital,1,1,60000 (operation)
+Insured,P167,1,45,Awaie,2,2,4,1,3,5,1,2,none,1,teeth problems,12 (ATLANTIQUE ASSURANCE),NONE,2,3,3,2,3,3,3,3,1,3,2,2,3,3,2,Include price for dental prothesis ,1,1,"35000 (medecine, drugs)"
+Insured,P173,1,40,mimboman,2,1,4,1,3,4,1,2,none,1,malaria,4,NONE,3,3,2,2,3,3,3,3,2,3,3,3,3,3,2,my insurance should cover all my laboratory examinations,1,1,56000 (laboratory)
+Insured,P179,2,66,nkoabang,4,4,4,1,2,3,2,2,none,1,malaria,12 (ASCOMA),NONE,3,3,2,2,3,3,3,3,2,3,3,3,3,3,2,cover all my laboratory examinations,1,1,50000 (consultations and laboratory examinations)
+Insured,P185,2,45,efoulan,4,1,4,1,1,3,2,2,none,1,malaria,7,NONE,1,1,9,2,3,3,3,3,3,3,3,3,2,3,2,cover all my laboratory examinations,1,1,11275 (all hospital examinations)
+Insured,207,1,30,ngoa ekele,1,1,4,1,2,1,1,2,none,2,long sighted vision,12 (Assured by MINDEF),NONE,1,1,3,1,3,3,3,3,3,3,3,3,3,3,1,my insurance should cover all my hospital expenses,1,1,2
+Insured,208,1,45,simbock,2,1,4,1,5,7,1,2,none,1,constipation,7,NONE,1,1,2,2,3,3,3,3,3,3,2,1,2,3,2,my insurance should cover food supplements ,1,1,15000 (medecines and drugs)
+Insured,218,2,39,nkolbisson,1,1,3,1,2,7,1,2,none,2,eye pain,12 (Prise en charge personnel de sante),NONE,1,1,1,2,3,3,3,3,2,3,3,3,3,3,1,Take total care of my operation bills in the hospital,1,1,3500 (consultation)
+Insured,222,2,38,Olembe,1,1,3,1,3,4,1,1,Hepatitis B,1,malaria,12 (AREA),NONE,1,1,2,2,3,3,1,3,4,3,1,3,1,3,2,Take total care of all laboratory examinations in the hospital,1,1,10000 (laboratory)
+Insured,226,2,35,nkoldongo,2,2,4,1,3,5,1,2,none,2,typhoid,12 (AXA),NONE,1,1,2,2,3,3,3,3,2,3,3,3,3,3,2,take care of all laboratory examinations and consulatations,1,1,15000 (laboratory)
+Insured,227,1,32,odza,2,1,4,1,3,5,1,2,none,2,malaria,4,NONE,1,1,2,2,3,3,3,3,2,3,2,2,3,3,2,consultation fees should be covered ,1,1,3200 (service payment)
+Insured,228,1,50,nkolbisson,1,1,4,1,3,4,1,1,hiv,2,came to pick up medicine,12 (Zenith),NONE,1,1,7,1,3,3,3,3,2,3,1,3,3,3,1,NONE,1,1,2
+Insured,229,1,55,nkolbisson,2,1,4,1,3,4,1,2,none,2,malaria,12 (NSIA),NONE,2,2,20,1,3,3,3,3,2,3,1,2,3,3,1,My insurance covers all my expenses,1,1,2
+Insured,230,2,38,damas,2,1,4,1,2,6,1,2,none,accompany a patient,none,12 (AXA),NONE,3,2,10,2,3,3,3,3,3,3,3,3,3,3,2,to cover my medications and eye services,1,2,"100,000 (service payment)"
+Insured,231,2,36,efoulan,2,1,4,1,3,8,1,1,diabetes,1,irregular menstrual cycle,12 (AXA),NONE,3,2,5,2,3,3,3,3,2,3,3,3,3,3,2,consultation fees should be covered ,1,1,5000 (consultation)
+Insured,232,1,51,essos,2,1,5,1,4,7,1,2,none,2,teeth problems,12 (ASCOMA),NONE,1,2,5,2,3,3,3,3,3,3,3,3,3,3,2,Dental care should be completely covered,1,1,"100000 (medicine, drug, laboratory)"
+Insured,233,1,55,limbe,2,1,4,1,3,3,1,2,none,2,malaria,12 (ASCOMA),NONE,1,1,2,2,3,3,3,3,2,2,3,3,3,3,2,All medical examinations should be covered,1,1,6400 (medical examinations)
+Insured,234,2,49,Ngousso,2,1,3,1,2,7,1,2,none,1,malaria,12 (AXA),NONE,1,1,10,1,3,3,3,3,2,3,2,3,3,3,1,My insurance should cover all my expenses,1,1,2
+Insured,235,1,40,Mvan,3,3,3,1,2,3,1,1,high blood pressure,1,typhoid,4,NONE,3,2,1,2,3,3,3,3,3,3,3,3,3,3,2,cover all my consultation and medical examinations,1,1,30000 (laboratory)
+Insured,236,2,38,Olembe,2,2,3,1,3,4,2,2,none,1,malaria,12 (ASCOMA),NONE,2,4,4,2,4,3,2,2,1,2,1,2,3,3,2,my insurance should cover all my expenses,1,1,2
+Insured,237,1,52,biyemassi,1,3,2,1,2,3,1,1,diabetes,2,malaria,"5, 6",1,1,1,15,1,3,3,3,3,3,3,3,3,3,3,1,my insurance should cover more children,1,1,"300,000 (Medicine, laboratory)"
+Insured,238,1,34,ekounu,1,2,4,1,2,6,2,1,hiv,2,came to pick up medicine,12 (ASCOMA),NONE,"1,2","1,2,3",3,2,3,3,3,3,3,3,3,3,3,4,2,cover all my consultation and medical examinations,2,2,33000 (laboratory)
+Insured,239,2,33,Jouvance,1,2,4,1,3,1,2,2,none,1,food poisoning ,1,NONE,1,6,3,2,3,3,3,3,2,4,3,2,3,3,1,cover all my consultation and medical examinations,2,1,25000 (service payment)
+Insured,240,1,43,odza,1,1,5,1,5,1,1,2,none,2,malaria,1,NONE,2,3,5,1,3,3,3,3,2,,3,3,4,3,1,cover all my consultation and medical examinations,2,1,2
+Insured,241,2,28,acasia,1,2,4,1,3,2,2,2,none,2,malaria,12 (Beneficial insurance),NONE,2,2,2,2,3,3,3,3,1,3,2,2,3,3,2,Dental care should be completely covered,1,1,30000 (service payment)
+Insured,242,1,33,nkolbisson,2,2,4,1,4,10,1,1,asthma,2,typhoid,12 (AXA),NONE,1,1,3,2,3,3,3,3,2,3,3,3,3,2,2,cover full blood analysis for family members,1,1,"90000 (medicine, laboratory)"
+Insured,243,1,41,TKC,2,1,5,1,4,5,1,2,none,2,malaria,12 (ASCOMA),NONE,1,1,4,1,3,3,2,1,1,3,2,2,3,3,1,cover all my consultation and medical examinations,1,1,2
+Insured,244,2,50,yaounde,4,6,2,1,1,5,1,2,none,1,malaria,13,NONE,3,4,10,2,3,3,3,3,3,3,2,3,3,3,2,cover all my consultation ,1,1,2
+Insured,245,2,34,eleveur,2,6,3,1,2,4,1,2,none,1,typhoid,"12 (ENEO, my husbands insurance)",NONE,1,2,3,2,3,3,3,3,1,3,3,3,3,2,2,should cover certain medications,2,1,3200 (medicine)
+Insured,246,2,37,emana,2,1,4,1,3,4,1,2,none,2,eye pain,12 (AXA),NONE,1,1,3,1,3,3,3,2,1,3,2,3,3,3,1,cover all medications,1,1,12000 (radiography)
+Insured,247,1,50,ekounu,2,2,4,3,2,4,1,2,none,1,testicular screening,3,NONE,3,2,5,2,3,3,3,3,3,4,2,3,2,3,2,cover more children ,1,1,"200,000 (medicine, technology, service payment)"
+Insured,248,2,50,Ngousso,2,2,4,1,3,10,1,2,none,1,malaria,7,NONE,1,1,3,1,3,3,3,3,2,3,2,2,3,3,1,cover all my consultation ,1,1,5000 (service payement)
+Insured,249,1,54,obili,2,2,4,1,3,3,1,1,diabetes,2,routine follow up,8,NONE,1,1,5,1,3,3,3,4,3,3,3,3,3,3,1,cover all my consultation,2,1,1
+Insured,250,2,49,efoulan,4,2,4,2,5,4,2,1,hiv,2,came to pick up medicine,4,NONE,1,1,15,1,3,3,3,3,4,3,3,3,3,3,1,cover all my consultation and medical examinations,2,1,2
+Insured,251,1,46,odza,2,1,5,2,4,4,1,2,none,accompany a patient,none,"1,7",to protect my interest,1,3,1,2,3,3,3,3,3,3,3,3,3,3,2,cover childrens sicknesses,2,2,3200 (service payment)
+Insured,252,1,29,damas,1,1,4,1,5,2,1,1,hiv,1,came to pick up medicine,1,NONE,1,1,2,2,3,3,3,2,2,3,3,3,3,3,2,cover more than 90% of total cost,2,2,38000 (laboratory)
+Insured,253,1,50,mendong,1,1,4,1,2,4,1,2,none,1,malaria,12 (ATLANTIQUE ASSURANCE),NONE,1,1,2,2,3,3,3,3,2,3,3,3,3,3,2,cover all my scans and injections,1,1,"32500 (laboratory, service payment)"
+Insured,254,2,37,Mvan,1,3,3,1,5,3,2,1,hiv,2,came to pick up medicine,12,NONE,2,2,3,2,3,3,3,2,2,3,2,3,4,3,2,cover all my medications,2,2,"14700 (medicine, laboratory, service payment)"
+Insured,255,2,18,mendong,1,6,3,1,1,7,1,2,none,2,ringworm,12 (AXA),NONE,3,2,3,2,4,4,3,4,3,3,3,3,4,3,2,cover dental issues,1,1,75000 (dentist)
+Insured,256,1,56,nyom,2,2,5,1,1,6,1,2,none,1,malaria,12 (ASCOMA),NONE,1,1,6,2,1,3,1,2,1,1,1,2,3,1,2,cover all consultation,1,1,"40000 (laboratory, service payment)"
+Insured,257,1,33,mvolye,2,2,3,3,2,3,1,1,hiv,2,came to pick up medicine,6,NONE,2,3,1,2,3,3,3,3,3,2,4,3,3,3,2,increase insurance coverage ,2,2,"56000 (technology, laboratory, service payment)"
+Insured,258,2,25,soa,1,2,4,1,1,3,1,1,nerves,1,migraines,12 (AXA),NONE,3,4,4,2,3,3,3,3,2,2,2,2,2,3,2,NONE,1,1,2
+Insured,259,1,62,mvolye,2,4,3,2,3,6,1,1,hiv,2,came to pick up medicine,"6,8","1,3",1,1,12,1,3,3,3,3,3,3,3,3,3,3,1,NONE,1,1,2
+Insured,260,2,44,ahala,2,1,3,1,2,5,1,1,nerves,2,teeth problems,12 (AXA),NONE,1,1,3,2,3,3,3,3,2,3,2,2,3,3,2,Dental care should be completely covered,1,1,10000 (laboratory)
+Insured,261,1,39,acasia,2,2,4,1,3,6,1,2,none,2,migraines,12 (AXA),NONE,1,1,6,1,3,3,3,3,2,3,2,2,3,3,1,cover all consultation,1,1,3200 (consultation)
+Insured,262,2,38,Mokolo,2,1,5,1,2,4,1,2,none,1,malaria,13,NONE,1,1,10,1,3,3,3,3,3,3,3,3,3,3,1,cover all personal expenses,1,1,2
+Insured,263,1,50,Nkolmesseng,2,2,4,1,3,7,1,2,none,1,typhoid,12 (ASCOMA),NONE,1,2,5,2,3,3,3,2,2,2,2,1,3,3,2,cover all consultation,1,1,"35000 (laboratory, service payment)"
+Insured,264,2,30,soa,1,2,4,1,1,3,1,2,none,2,long sighted vision,12 (AREA),NONE,1,1,3,2,3,3,3,3,2,3,2,2,3,3,2,cover eye services and acquisition of lenses,1,1,50000 (service payment)
+Insured,265,1,43,nkonkaja,2,1,3,1,2,6,1,2,none,2,malaria,12 (AXA),NONE,1,1,8,2,3,3,3,3,1,3,1,1,3,3,2,cover dental issues,1,1,"75000 (medicine, technology, laboratory, service payment)"
+Insured,266,2,39,essos,3,2,3,1,2,5,2,2,none,2,malaria,12 (ASCOMA),NONE,1,1,5,2,3,3,3,3,2,3,2,2,3,3,2,cover all medications,1,1,"36000 (medicine, technology, laboratory, service payment)"
+Insured,267,1,42,carriere,2,1,4,1,2,3,1,2,none,2,typhoid,12 (AXA),NONE,1,1,5,1,3,3,3,3,2,3,2,3,3,3,1,NONE,1,1,2
+Insured,268,2,30,Jouvance,2,1,5,1,2,4,1,2,none,2,malaria,13,NONE,1,1,5,1,3,3,3,3,3,3,3,3,3,3,1,NONE,1,1,2
+Insured,269,2,32,emana,2,1,4,1,4,4,1,2,none,accompany a patient,none,9,NONE,3,4,3,2,3,3,3,3,3,3,3,3,3,3,1,cover all consultation,1,1,2
+Insured,270,2,40,Mvan,2,2,4,1,3,5,1,2,none,2,teeth problems,12 (ATLANTIQUE ASSURANCE),NONE,2,1,4,2,3,3,3,3,2,3,1,1,3,3,2,cover dental issues,1,1,"20000 (laboratory, service payment)"
+Insured,271,1,38,Ngousso,1,2,5,1,2,4,1,2,none,2,malaria,12 (AREA),NONE,1,1,2,2,3,3,3,3,1,3,2,3,3,3,2,cover all consultation and medication,1,1,"10000 (medicine, medications, service payment, consultations)"
+Insured,272,2,35,simbock,2,1,4,1,2,5,1,2,none,1,malaria,12 (PASS 24),NONE,1,1,1,2,3,3,3,3,2,3,3,3,3,3,2,cover certain medications,1,1,5000 (medicine and drugs)
+Insured,273,1,65,Ngousso,2,1,4,1,3,6,1,1,Hepatitis C,2,came to pick up medicine, 12 (CHANAS),NONE,1,1,9,2,3,3,3,3,3,1,3,3,1,3,2,cover orthopedic services,1,1,15000 (medecines and drugs)
+Insured,275,2,46,odza,2,1,5,1,4,3,2,1,hiv,1,came to pick up medicine,12 (AXA),NONE,1,1,10,2,3,3,2,2,1,2,2,1,3,3,2,cover all medications,1,1,10000 (medicines)
+Insured,277,2,28,ekounu,2,1,4,1,4,1,1,2,none,1,malaria,12 (ASCOMA),NONE,3,2,1,1,3,3,3,3,2,3,2,2,3,3,1,NONE,1,1,"50000 (service payment, esthetique services)"
+Insured,278,1,38,odza,2,2,4,1,5,5,1,2,none,2,typhoid,12 (AXA),NONE,1,1,3,1,3,3,3,3,3,3,3,3,3,3,1,cover all service payments,1,1,"117000 (medicines, laboratory, service payments)"
+Insured,279,2,46,acasia,1,2,3,1,3,5,2,2,none,3,migraines,12 (ASCOMA),NONE,1,2,5,2,3,3,3,3,2,3,3,3,3,3,2,NONE,1,1,"6000 (medicine, service payment) "
+Insured,280,1,42,essos,2,2,4,1,3,3,1,2,none,2,malaria,12 (ASCOMA),NONE,1,"1,2",2,2,3,3,3,3,3,3,3,3,3,3,2,cover all consultation,1,1,3200 (consultation)
+Insured,281,2,18,Ngousso,1,6,4,2,1,1,2,2,none,1,malaria,12 (ASCOMA),NONE,6 (Plan International),3,1,2,3,3,3,3,2,3,3,3,3,3,2,cover all medications,2,1,3200 (consultation)
+Insured,282,2,38,bastos,2,2,4,1,3,4,1,2,none,1,typhoid,12 (ASCOMA),NONE,1,1,3,2,3,3,2,2,2,3,2,3,3,3,2,cover all medications,1,1,"30000 (medicine, service payment)"
+Insured,283,1,54,acasia,1,1,5,1,3,3,1,1,none,2,road traffic injury,12 (ASCOMA),NONE,1,1,4,2,1,3,3,3,3,2,3,3,2,3,1,cover all medications,1,1,2500 (consultation)
+Insured,284,2,32,mimboman,2,2,4,1,3,4,2,2,none,2,malaria,12 (CHANAS),NONE,3,1,1,1,3,2,3,3,2,2,2,2,3,3,1,cover dental issues,2,1,3500 (consultation)
+Insured,290,2,32,emana,2,1,4,1,2,2,1,2,none,2,malaria,12 (AXA),NONE,1,1,3,2,3,3,3,3,2,3,3,3,3,3,2,cover dental issues,1,1,"50000 (medicine, service payment)"
+Insured,293,1,56,kondengui,2,1,4,1,3,5,1,2,none,2,malaria,12 (ASCOMA),NONE,1,1,5,1,3,3,3,2,2,3,1,3,3,3,2,cover all consultation,1,1,3200 (consultation)
+Insured,305,2,37,etoug-egbe,2,2,4,1,3,3,1,2,none,2,pregnant,12 (CHANAS),NONE,1,1,4,2,4,4,3,3,2,4,3,3,4,4,2,cover all medications,1,1,30000 (medicine)
+Insured,309,1,38,damas,1,2,5,1,3,4,1,2,none,2,typhoid,12 (ASCOMA),NONE,1,1,2,2,3,3,3,3,1,3,3,2,4,3,2,cover all medical expenses,2,1,15000 (medecines and drugs)
+Insured,310,2,40,messasi,2,1,4,1,2,5,1,2,none,2,malaria,12 (AXA),NONE,1,1,4,2,3,3,3,3,3,3,3,3,3,3,2,cover all medical expenses,1,1,"25000 (laboratory, service payment)"
+Insured,311,2,40,oyomabang,2,5,3,1,1,6,1,1,nerves,2,migraines,12 (AXA),NONE,1,1,8,2,3,1,2,3,2,2,3,1,3,2,2,cover all medical expenses,1,1,"20000 (medicine, laboratory, service payment)"
+Insured,312,1,26,obili,1,6,4,1,1,6,1,2,none,2,malaria,12 (CHANAS),NONE,6 (school),3,3,2,3,3,2,3,2,2,3,2,3,2,2,cover transportation,2,2,"10000 (medicine,laboratory)"
+Insured,313,1,33,bonas,1,2,4,1,3,4,1,2,none,2,teeth problems,12 (MARY),NONE,6,"1,2",5,2,2,3,2,3,1,3,2,2,3,3,2,coevr medical expenses during weekends and night ,2,2,"1500 (laboratory, service payment)"
+Insured,314,2,50,Jouvance,2,1,4,1,2,4,1,2,none,2,malaria,12 (AXA),NONE,1,1,3,2,3,3,3,3,2,3,2,3,3,3,2,cover all consultations,1,1,3200 (consultation)
+Insured,315,2,35,mendong,2,1,5,1,2,4,2,2,none,1,routine follow up,12 (Prise en charge personnel de sante),NONE,1,1,5,1,3,3,4,4,4,4,4,3,4,4,1,NONE,1,1,NONE
+Insured,316,2,52,nkolbisson,1,6,2,4,1,5,1,2,none,2,malaria,12 (ASCOMA),NONE,3,2,3,2,3,3,3,3,2,3,3,3,3,2,1,vitamins,1,1,"50000 (medicine, service payment, laboratory)"
+Insured,317,1,27,messasi,1,2,4,1,5,7,1,2,none,1,malaria,12 (ASCOMA),NONE,1,1,3,2,3,3,3,3,3,3,3,2,3,3,2,protein supplements,1,1,"30000 (CT scan, service payment)"
+Insured,339,1,35,etoug-egbe,2,2,4,1,3,4,1,2,none,2,typhoid,12 (Willis Town Watson),NONE,1,1,3,2,3,3,2,2,2,3,3,3,3,3,2,take care of all hospital expenses,1,1,"5000 (medicine, service payments)"
+Insured,357,1,27,bonas,1,2,5,1,3,1,2,2,none,2,typhoid,7,NONE,2,3,2,2,3,3,3,3,3,3,3,3,3,3,2,reimburse money when they don't sue insurance,1,1,"35000 (laboratory, service payment)"
+Insured,358,2,45,essomba,2,1,3,1,2,5,1,2,none,2,irregular menstrual cycle,12 (ATLANTIQUE ASSURANCE),NONE,1,1,2,2,3,3,3,3,1,3,1,1,3,3,2,take care of all hospital expenses,1,1,"10000 (medicine, service payment)"
+Insured,359,2,30,Olembe,2,1,4,1,3,3,1,2,none,2,malaria,12 (ASCOMA),NONE,2,2,5,2,3,3,3,3,3,3,3,3,3,3,2,consultation fees should be covered ,1,1,3200 (service payment)
+Insured,360,2,53,Ngousso,4,1,4,1,4,6,2,1,hypertension,2,migraines,1,NONE,1,4,3,2,2,2,1,1,1,2,2,3,3,3,2,consultation fees should be covered ,1,1,NONE
+Insured,361,2,34,emana,2,1,4,1,1,6,1,2,none,1,malaria,12 (PASS 24),NONE,1,1,1,1,3,3,3,3,3,3,3,3,3,3,1,My insurance covers all my expenses,1,1,NONE
+Insured,362,1,30,Jouvance,1,2,3,1,2,2,1,1,hiv,2,came to pick up medicine,7,NONE,1,1,2,1,3,3,3,3,3,3,3,3,3,3,1,My insurance covers all my expenses,1,1,NONE
+Insured,363,2,56,Biteng,2,1,4,1,2,5,2,1,hypertension,2,migraines,12 (AXA),NONE,2,1,2,2,3,3,3,2,1,2,3,3,1,3,2,consultation fees should be covered ,2,2,"15000 (medicine, service payment)"
+Insured,364,2,46,yaounde,2,2,5,1,1,4,1,2,none,1,malaria,12 (AXA),NONE,1,1,3,2,3,3,2,2,2,3,2,3,3,3,2,Dental care should be completely covered,1,1,"30000 (medicine, laboratory, service payment)"
+Insured,365,1,42,yaounde,2,2,5,1,1,5,1,2,none,1,malaria,12 (AXA),NONE,1,1,2,2,3,3,3,3,2,3,3,3,3,3,2,take care of all hospital expenses,1,1,NONE
+Insured,366,1,50,mvogada,2,2,4,1,2,3,1,2,none,2,typhoid,12 (ATLANTIQUE ASSURANCE),NONE,1,2,3,2,3,3,3,3,2,3,2,3,3,3,2,all medications should be covered,1,1,"10000 (medicine, service payment)"
+Insured,367,2,38,Emana,1,1,4,1,4,5,1,2,none,1,malaria,12 (AXA),NONE,1,2,5,2,3,3,3,3,1,3,1,1,3,3,2,consultation fees should be covered ,1,1,"10000 (consultation, medicine)"
+Insured,368,1,30,Mvan,1,2,5,1,2,2,1,2,none,2,road traffic injury,12 (ASCOMA),NONE,1,1,1,2,3,3,3,3,1,3,3,2,3,3,2,Dental care should be completely covered,1,1,"30000 (service payment, medication)"
+Insured,369,2,41,Mokolo,2,1,5,1,2,4,1,2,none,2,malaria,12 (Prise en charge personnel de sante),NONE,1,1,10,1,3,3,3,3,3,3,3,3,3,3,1,NONE,1,1,2
+Insured,370,2,40,madagascar,3,1,4,1,3,3,2,2,none,2,malaria,1,NONE,1,1,2,2,3,3,3,3,2,3,3,3,3,3,2,cover all medication and prescription,1,1,"10000 (medicine, laboratory, service payment)"
+Insured,371,1,39,biyemassi,1,1,3,1,2,3,1,2,none,2,typhoid,12 (ASCOMA),NONE,1,1,2,2,3,3,2,2,2,3,2,2,3,2,2,consultation fees should be covered ,1,1,3200 (consultation)
+Insured,372,2,35,Mboumnyebel,2,1,4,1,2,5,1,2,none,1,malaria,12 (AXA),NONE,2,3,3,2,3,3,3,3,3,3,3,3,3,3,2,cover all medication and prescription,1,1,10000 (medicine)
+Insured,373,1,49,Awaie,2,1,4,1,4,6,1,2,none,1,migraines,7,NONE,1,1,4,2,3,3,3,2,2,3,2,2,3,3,2,NONE,1,1,2
+Insured,374,2,28,kondengui,1,2,4,1,3,2,2,2,none,2,accident,3,NONE,1,1,1,2,3,3,3,3,3,3,3,2,3,3,2,cover all medication and laboratory expenses,1,1,"23000 (medicine, laboratory, service payment)"
+Insured,375,1,31,mfou,1,1,2,1,1,1,1,1,hiv,1,came to pick up medicine,1,NONE,1,1,1,2,3,3,3,3,3,3,2,3,3,3,2,cover dental issues,1,1,"10000 (medicine, laboratory, CT scan)"
+Insured,376,1,40,essos,2,2,4,1,3,3,1,1,rheumatism,1,routine follow up,12 (ASCOMA),NONE,1,1,2,2,3,3,2,2,2,2,2,1,3,1,2,vitamins,1,1,"5000 (CT, service payment)"
+Insured,377,1,35,nsom escale,1,2,5,1,3,4,2,2,none,1,malaria,7,NONE,1,1,2,2,3,3,3,3,3,3,3,2,3,3,2,NONE,1,1,5000 (consultation)
+Insured,379,1,32,nkozoa,2,1,3,1,2,3,1,2,none,2,malaria,3,NONE,1,1,2,2,3,3,3,3,3,3,3,3,3,3,2,eye services should be covered,1,1,35000 (service payment)
+Insured,380,2,42,nkounou,2,2,2,1,2,3,2,2,none,2,malaria,7,NONE,1,1,2,2,3,3,3,3,3,3,3,3,3,3,2,consultation and transportation,1,1,18000 (service payment)
+Insured,382,2,56,nsimeyong,4,4,4,1,1,7,2,1,diabetes,2,migraines,3,NONE,1,1,3,2,3,3,3,3,3,2,3,2,2,3,2,cover all family members,1,1,2
+Insured,383,2,28,nsimalen,1,3,3,1,2,2,2,2,none,2,malaria,12 (AREA),NONE,2,2,2,2,3,3,3,3,3,3,3,3,3,3,2,NONE,1,1,"16000 (laboratory, service payment)"
+Insured,384,2,25,bonas,1,2,5,1,2,1,2,2,none,1,teeth problems,4,NONE,1,1,1,2,3,3,3,3,1,3,1,2,3,3,2,Dental care should be completely covered,1,1,"50000 (medicine, service payment)"
+Insured,385,2,35,Jouvance,3,2,5,3,4,3,2,2,none,2,malaria,1,NONE,1,1,5,2,3,3,3,3,1,3,1,3,3,3,2,cover all medication,1,1,2
+Not insured,add1,2,33,Nkolmesseng,2,3,2,1,1,4,1,2,none,1,malaria,NONE,NONE,NONE,NONE,NONE,NONE,3,3,2,3,2,3,2,2,3,2,NONE,NONE,NONE,NONE,NONE
+Insured,add2,2,50,Bokito,4,1,4,1,2,5,1,1,diabetes,2,malaria,12 (ASCOMA),NONE,1,1,4,2,3,3,3,2,1,3,3,3,3,3,2,cover all consultation,1,2,
+Not insured,add3,1,27,Happi,1,3,4,1,1,3,2,2,none,1,thyphoid,NONE,NONE,NONE,NONE,NONE,NONE,2,3,2,1,1,3,1,1,3,3,NONE,NONE,NONE,NONE,NONE
+Insured,add4,1,32,Komkana,2,2,3,1,5,2,1,1,diabetes,1,routine follow up,12 (AXA),NONE,1,1,2,2,3,3,3,3,2,3,3,3,3,3,2,cover all medication,1,2,
+Insured,add5,2,44,Essos,3,2,5,1,4,4,1,1,high blood pressure,1,malaria,12 (AXA),NONE,1,1,3,2,3,3,3,3,3,3,3,3,3,3,2,dental,1,1,
+Insured,add6,2,43,Emia,2,1,4,1,2,3,2,1,diabetes,1,malaria,12 (ASCOMA),NONE,2,3,1,2,4,4,3,3,2,3,2,2,3,3,2,cover all medication,1,1,
+Insured,add7,2,31,nsimeyong,2,3,3,1,2,2,1,1,high blood pressure,1,malaria,12 (AXA),NONE,1,1,2,1,4,4,3,2,2,4,3,3,3,3,2,cover all consultation,1,1,
+Not insured,add8,1,56,etoug-egbe,4,4,2,1,1,5,2,2,none,1,thyphoid,NONE,NONE,NONE,NONE,NONE,NONE,3,3,1,3,3,3,2,2,3,2,NONE,NONE,NONE,NONE,NONE
+Insured,add9,2,29,cradat,1,3,4,1,2,3,1,2,none,1,malaria,12 (AXA),NONE,1,1,2,2,3,3,3,3,2,4,2,2,4,3,2,dental,1,2,
+Insured,add10,1,37,Mvan,2,1,4,1,2,4,1,1,HIV,2,routine follow up,12 (ASCOMA),NONE,1,1,4,2,3,3,3,3,2,3,2,3,3,3,2,cover all consultation,1,2,
+Insured,add11,2,26,biyemassi,2,5,2,1,1,3,1,2,none,1,malaria,12 (Zenith),NONE,1,1,2,1,3,3,3,2,3,3,3,3,3,3,2,laboratory,1,1,
+Insured,add12,2,34,koldongo,2,2,4,1,4,4,1,2,none,1,thyphoid,12 (ASCOMA),NONE,2,3,3,2,4,3,2,3,2,3,1,2,3,3,2,cover all medication,1,2,
+Not insured,add13,2,45,Essos,3,6,2,1,1,5,2,1,diabetes,2,routine follow up,NONE,NONE,NONE,NONE,1,NONE,3,3,3,3,2,3,3,3,3,2,NONE,cover all medication,NONE,NONE,NONE
+Not insured,add14,1,48,acasia,2,1,3,1,2,7,1,1,high blood pressure,2,routine follow up,NONE,NONE,NONE,NONE,3,NONE,4,3,2,3,2,3,3,3,3,2,NONE,laboratory,NONE,NONE,NONE
+Insured,add15,2,39,bastos,2,2,5,1,3,3,1,1,hepatitis B,1,malaria,12 (Zenith),NONE,1,1,1,1,3,3,3,3,3,4,4,3,3,3,1,cover all consultation,1,2,
+Insured,add16,2,25,koldongo,1,3,3,1,2,2,2,2,none,1,malaria,12 (ASCOMA),NONE,1,1,2,2,3,3,3,3,2,3,2,2,4,3,2,cover all medication,1,1,
+Insured,add17,1,44,mvogada,2,2,3,1,5,4,1,1,high blood pressure,2,routine follow up,12 (ASCOMA),NONE,1,1,1,1,3,3,2,3,2,3,3,3,3,3,2,dental,1,2,
+Insured,add18,2,31,jouvance,2,2,2,1,4,5,1,2,none,1,malaria,12 (AXA),NONE,NONE,NONE,NONE,2,3,3,3,3,2,3,3,3,3,3,2,laboratory,1,2,
+Insured,add19,2,50,mfou,4,6,2,1,1,6,1,1,diabetes,1,malaria,12 (Zenith),NONE,2,4,5,1,3,4,3,3,2,3,4,3,3,2,1,laboratory,1,1,
+Insured,add20,1,36,bastos,2,2,4,1,4,4,1,1,hepatitis B,2,routine follow up,12 (AXA),NONE,1,1,4,2,3,3,3,3,2,3,3,3,3,3,2,cover all medication,1,1,
